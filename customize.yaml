@@ -1,0 +1,338 @@
+# iYan UGREEN Nas Customize
+sensor.iyan_nas2_boot_time:
+  friendly_name: 启动时间
+sensor.iyan_nas2_build_date:
+  friendly_name: 启动日期
+sensor.iyan_nas2_build_utc:
+  friendly_name: 启动日期
+sensor.iyan_nas2_device_id:
+  friendly_name: 设备ID
+sensor.iyan_nas2_mac1:
+  friendly_name: 网口1地址
+sensor.iyan_nas2_mac2:
+  friendly_name: 网口2地址
+sensor.iyan_nas2_device_name:
+  friendly_name: 设备名称
+sensor.iyan_nas2_memory:
+  friendly_name: 内存大小
+sensor.iyan_nas2_model:
+  friendly_name: 型号
+sensor.iyan_nas2_cpu:
+  friendly_name: CPU型号
+sensor.iyan_nas2_cpu_used:
+  friendly_name: CPU使用率
+sensor.iyan_nas2_nas_server_ver:
+  friendly_name: 服务器版本
+sensor.iyan_nas2_nas_server_ver_no:
+  friendly_name: 服务器版本
+sensor.iyan_nas2_sn:
+  friendly_name: 序列号
+sensor.iyan_nas2_timezone:
+  friendly_name: 时区
+sensor.iyan_nas2_upload_speed:
+  friendly_name: 上传速度
+sensor.iyan_nas2_download_speed:
+  friendly_name: 下载速度
+sensor.iyan_nas2_cpu_temp:
+  friendly_name: CPU温度
+sensor.iyan_nas2_memory_used:
+  friendly_name: 内存占用率
+sensor.iyan_nas2_memory_total:
+  friendly_name: 内存大小
+sensor.iyan_nas2_memory_used_size:
+  friendly_name: 已用内存
+sensor.iyan_nas2_fan_speed:
+  friendly_name: 风扇转速
+sensor.iyan_nas2_cpu_fan_speed:
+  friendly_name: CPU风扇转速
+sensor.iyan_nas2_board_fan_speed:
+  friendly_name: 板载风扇转速
+sensor.iyan_nas2_indicator_light:
+  friendly_name: 指示灯
+
+button.iyan_nas2_reboot:
+  friendly_name: 重启
+button.iyan_nas2_sleep:
+  friendly_name: 休眠
+button.iyan_nas2_shutdown:
+  friendly_name: 关机
+
+# iYan UGREEN Nas Customize Switch
+switch.iyan_nas2_afp:
+  friendly_name: AFP开关
+switch.iyan_nas2_ftp:
+  friendly_name: FTP开关
+switch.iyan_nas2_indicator_light:
+  friendly_name: 指示灯开关
+switch.iyan_nas2_poweronautomatically:
+  friendly_name: 来电开机
+switch.iyan_nas2_samba:
+  friendly_name: Samba开关
+switch.iyan_nas2_sambaexternal:
+  friendly_name: Samba扩展开关
+switch.iyan_nas2_webdav:
+  friendly_name: WebDAV开关
+
+# iYan UGREEN Nas Customize HardDisk
+sensor.iyan_nas2_disk1_model:
+  friendly_name: 硬盘型号
+sensor.iyan_nas2_disk1_serial:
+  friendly_name: 硬盘序列号
+sensor.iyan_nas2_disk1_type:
+  friendly_name: 硬盘类型
+sensor.iyan_nas2_disk1_readspeed:
+  friendly_name: 读取速度
+sensor.iyan_nas2_disk1_writespeed:
+  friendly_name: 写入速度
+sensor.iyan_nas2_disk1_temp:
+  friendly_name: 硬盘温度
+sensor.iyan_nas2_disk1_time:
+  friendly_name: 使用时长
+sensor.iyan_nas2_disk1_disk_place:
+  friendly_name: 硬盘位置
+sensor.iyan_nas2_disk1_size:
+  friendly_name: 硬盘大小
+sensor.iyan_nas2_disk1_smartstatus:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk1_stpower:
+  friendly_name: 是否休眠
+sensor.iyan_nas2_disk1_checkstatus:
+  friendly_name: 检查状态
+sensor.iyan_nas2_disk1_interface:
+  friendly_name: 硬盘接口
+sensor.iyan_nas2_disk1_status:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk1_diskplace:
+  friendly_name: 硬盘位置
+
+sensor.iyan_nas2_disk2_model:
+  friendly_name: 硬盘型号
+sensor.iyan_nas2_disk2_serial:
+  friendly_name: 硬盘序列号
+sensor.iyan_nas2_disk2_type:
+  friendly_name: 硬盘类型
+sensor.iyan_nas2_disk2_readspeed:
+  friendly_name: 读取速度
+sensor.iyan_nas2_disk2_writespeed:
+  friendly_name: 写入速度
+sensor.iyan_nas2_disk2_temp:
+  friendly_name: 硬盘温度
+sensor.iyan_nas2_disk2_time:
+  friendly_name: 使用时长
+sensor.iyan_nas2_disk2_disk_place:
+  friendly_name: 硬盘位置
+sensor.iyan_nas2_disk2_size:
+  friendly_name: 硬盘大小
+sensor.iyan_nas2_disk2_smartstatus:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk2_stpower:
+  friendly_name: 是否休眠
+sensor.iyan_nas2_disk2_checkstatus:
+  friendly_name: 检查状态
+sensor.iyan_nas2_disk2_interface:
+  friendly_name: 硬盘接口
+sensor.iyan_nas2_disk2_status:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk2_diskplace:
+  friendly_name: 硬盘位置
+
+sensor.iyan_nas2_disk3_model:
+  friendly_name: 硬盘型号
+sensor.iyan_nas2_disk3_serial:
+  friendly_name: 硬盘序列号
+sensor.iyan_nas2_disk3_type:
+  friendly_name: 硬盘类型
+sensor.iyan_nas2_disk3_readspeed:
+  friendly_name: 读取速度
+sensor.iyan_nas2_disk3_writespeed:
+  friendly_name: 写入速度
+sensor.iyan_nas2_disk3_temp:
+  friendly_name: 硬盘温度
+sensor.iyan_nas2_disk3_time:
+  friendly_name: 使用时长
+sensor.iyan_nas2_disk3_disk_place:
+  friendly_name: 硬盘位置
+sensor.iyan_nas2_disk3_size:
+  friendly_name: 硬盘大小
+sensor.iyan_nas2_disk3_smartstatus:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk3_stpower:
+  friendly_name: 是否休眠
+sensor.iyan_nas2_disk3_checkstatus:
+  friendly_name: 检查状态
+sensor.iyan_nas2_disk3_interface:
+  friendly_name: 硬盘接口
+sensor.iyan_nas2_disk3_status:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk3_diskplace:
+  friendly_name: 硬盘位置
+
+sensor.iyan_nas2_disk4_model:
+  friendly_name: 硬盘型号
+sensor.iyan_nas2_disk4_serial:
+  friendly_name: 硬盘序列号
+sensor.iyan_nas2_disk4_type:
+  friendly_name: 硬盘类型
+sensor.iyan_nas2_disk4_readspeed:
+  friendly_name: 读取速度
+sensor.iyan_nas2_disk4_writespeed:
+  friendly_name: 写入速度
+sensor.iyan_nas2_disk4_temp:
+  friendly_name: 硬盘温度
+sensor.iyan_nas2_disk4_time:
+  friendly_name: 使用时长
+sensor.iyan_nas2_disk4_disk_place:
+  friendly_name: 硬盘位置
+sensor.iyan_nas2_disk4_size:
+  friendly_name: 硬盘大小
+sensor.iyan_nas2_disk4_smartstatus:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk4_stpower:
+  friendly_name: 是否休眠
+sensor.iyan_nas2_disk4_checkstatus:
+  friendly_name: 检查状态
+sensor.iyan_nas2_disk4_interface:
+  friendly_name: 硬盘接口
+sensor.iyan_nas2_disk4_status:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk4_diskplace:
+  friendly_name: 硬盘位置
+
+sensor.iyan_nas2_disk5_model:
+  friendly_name: 硬盘型号
+sensor.iyan_nas2_disk5_serial:
+  friendly_name: 硬盘序列号
+sensor.iyan_nas2_disk5_type:
+  friendly_name: 硬盘类型
+sensor.iyan_nas2_disk5_readspeed:
+  friendly_name: 读取速度
+sensor.iyan_nas2_disk5_writespeed:
+  friendly_name: 写入速度
+sensor.iyan_nas2_disk5_temp:
+  friendly_name: 硬盘温度
+sensor.iyan_nas2_disk5_time:
+  friendly_name: 使用时长
+sensor.iyan_nas2_disk5_disk_place:
+  friendly_name: 硬盘位置
+sensor.iyan_nas2_disk5_size:
+  friendly_name: 硬盘大小
+sensor.iyan_nas2_disk5_smartstatus:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk5_stpower:
+  friendly_name: 是否休眠
+sensor.iyan_nas2_disk5_checkstatus:
+  friendly_name: 检查状态
+sensor.iyan_nas2_disk5_interface:
+  friendly_name: 硬盘接口
+sensor.iyan_nas2_disk5_status:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk5_diskplace:
+  friendly_name: 硬盘位置
+
+sensor.iyan_nas2_disk6_model:
+  friendly_name: 硬盘型号
+sensor.iyan_nas2_disk6_serial:
+  friendly_name: 硬盘序列号
+sensor.iyan_nas2_disk6_type:
+  friendly_name: 硬盘类型
+sensor.iyan_nas2_disk6_readspeed:
+  friendly_name: 读取速度
+sensor.iyan_nas2_disk6_writespeed:
+  friendly_name: 写入速度
+sensor.iyan_nas2_disk6_temp:
+  friendly_name: 硬盘温度
+sensor.iyan_nas2_disk6_time:
+  friendly_name: 使用时长
+sensor.iyan_nas2_disk6_disk_place:
+  friendly_name: 硬盘位置
+sensor.iyan_nas2_disk6_size:
+  friendly_name: 硬盘大小
+sensor.iyan_nas2_disk6_smartstatus:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk6_stpower:
+  friendly_name: 是否休眠
+sensor.iyan_nas2_disk6_checkstatus:
+  friendly_name: 检查状态
+sensor.iyan_nas2_disk6_interface:
+  friendly_name: 硬盘接口
+sensor.iyan_nas2_disk6_status:
+  friendly_name: 硬盘状态
+sensor.iyan_nas2_disk6_diskplace:
+  friendly_name: 硬盘位置
+
+# iYan UGREEN Nas Customize Storage
+sensor.iyan_nas2_storage1_host:
+  friendly_name: 存储空间主机
+sensor.iyan_nas2_storage1_label:
+  friendly_name: 存储空间标签
+sensor.iyan_nas2_storage1_mode:
+  friendly_name: 存储空间模式
+sensor.iyan_nas2_storage1_name:
+  friendly_name: 存储空间名称
+sensor.iyan_nas2_storage1_size:
+  friendly_name: 存储空间大小
+sensor.iyan_nas2_storage1_used:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage1_used_gb:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage1_used_tb:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage1_type:
+  friendly_name: 存储空间类型
+
+sensor.iyan_nas2_storage2_host:
+  friendly_name: 存储空间主机
+sensor.iyan_nas2_storage2_label:
+  friendly_name: 存储空间标签
+sensor.iyan_nas2_storage2_mode:
+  friendly_name: 存储空间模式
+sensor.iyan_nas2_storage2_name:
+  friendly_name: 存储空间名称
+sensor.iyan_nas2_storage2_size:
+  friendly_name: 存储空间大小
+sensor.iyan_nas2_storage2_used:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage2_used_gb:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage2_used_tb:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage2_type:
+  friendly_name: 存储空间类型
+
+sensor.iyan_nas2_storage3_host:
+  friendly_name: 存储空间主机
+sensor.iyan_nas2_storage3_label:
+  friendly_name: 存储空间标签
+sensor.iyan_nas2_storage3_mode:
+  friendly_name: 存储空间模式
+sensor.iyan_nas2_storage3_name:
+  friendly_name: 存储空间名称
+sensor.iyan_nas2_storage3_size:
+  friendly_name: 存储空间大小
+sensor.iyan_nas2_storage3_used:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage3_used_gb:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage3_used_tb:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage3_type:
+  friendly_name: 存储空间类型
+
+sensor.iyan_nas2_storage4_host:
+  friendly_name: 存储空间主机
+sensor.iyan_nas2_storage4_label:
+  friendly_name: 存储空间标签
+sensor.iyan_nas2_storage4_mode:
+  friendly_name: 存储空间模式
+sensor.iyan_nas2_storage4_name:
+  friendly_name: 存储空间名称
+sensor.iyan_nas2_storage4_size:
+  friendly_name: 存储空间大小
+sensor.iyan_nas2_storage4_used:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage4_used_gb:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage4_used_tb:
+  friendly_name: 存储空间已用
+sensor.iyan_nas2_storage4_type:
+  friendly_name: 存储空间类型

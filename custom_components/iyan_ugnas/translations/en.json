@@ -1,0 +1,33 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "title":"UGNas",
+                "data": {
+                    "password": "Password",
+                    "username": "Username",
+                    "port": "port",
+					"host": "Host web, such as: http://192.168.1.1"
+                }
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "user":{
+                "data": {
+					"update_interval_seconds": "Update_interval(10-3600 seconds)"
+                },
+                "description": "Set Entity Update_interval"
+            }
+        }
+    }
+}

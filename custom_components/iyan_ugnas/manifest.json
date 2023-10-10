@@ -1,0 +1,13 @@
+{
+  "domain": "iyan_ugnas",
+  "name": "iyan_ugnas",
+  "codeowners": ["@flamestsui"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/flamestsui/core",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/flamestsui/core/issues",
+  "requirements": [],
+  "version": "1.0"
+}
