@@ -314,7 +314,7 @@ SENSOR_TYPES_DISK = {
 
     "disk2_interface": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1类型",
+        "label": "磁盘2类型",
         "name": "interface",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -322,7 +322,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk2_model": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1型号",
+        "label": "磁盘2型号",
         "name": "model",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -330,7 +330,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk2_type": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1类型",
+        "label": "磁盘2类型",
         "name": "type",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -338,7 +338,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk2_status": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1状态",
+        "label": "磁盘2状态",
         "name": "status",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -346,7 +346,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk2_serial": {
         "icon": "mdi:devices",
-        "label": "磁盘1序列号",
+        "label": "磁盘2序列号",
         "name": "serial",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -354,7 +354,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk2_temp": {
         "icon": "mdi:thermometer",
-        "label": "磁盘1温度",
+        "label": "磁盘2温度",
         "name": "temp",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -364,7 +364,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk2_size": {
         "icon": "mdi:chart-pie",
-        "label": "磁盘1大小",
+        "label": "磁盘2大小",
         "name": "size",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -372,7 +372,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk2_time": {
         "icon": "mdi:clock-time-eight",
-        "label": "磁盘1使用时长",
+        "label": "磁盘2使用时长",
         "name": "time",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -395,21 +395,21 @@ SENSOR_TYPES_DISK = {
 
     "disk2_readspeed": {
         "icon": "mdi:devices",
-        "label": "磁盘1读取速度",
+        "label": "磁盘2读取速度",
         "name": "readspeed",
         "device_Id": "disk2",
         "device_Name": "disk",
     },
     "disk2_writespeed": {
         "icon": "mdi:devices",
-        "label": "磁盘1写入速度",
+        "label": "磁盘2写入速度",
         "name": "writespeed",
         "device_Id": "disk2",
         "device_Name": "disk",
     },
     "disk2_diskplace": {
         "icon": "mdi:devices",
-        "label": "磁盘1位置",
+        "label": "磁盘2位置",
         "name": "diskplace",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -417,7 +417,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk2_checkstatus": {
         "icon": "mdi:devices",
-        "label": "磁盘1检查状态",
+        "label": "磁盘2检查状态",
         "name": "checkstatus",
         "device_Id": "disk2",
         "device_Name": "disk",
@@ -426,7 +426,7 @@ SENSOR_TYPES_DISK = {
 
     "disk3_interface": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1类型",
+        "label": "磁盘3类型",
         "name": "interface",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -434,7 +434,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk3_model": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1型号",
+        "label": "磁盘3型号",
         "name": "model",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -442,7 +442,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk3_type": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1类型",
+        "label": "磁盘3类型",
         "name": "type",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -450,7 +450,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk3_status": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1状态",
+        "label": "磁盘3状态",
         "name": "status",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -458,7 +458,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk3_serial": {
         "icon": "mdi:devices",
-        "label": "磁盘1序列号",
+        "label": "磁盘3序列号",
         "name": "serial",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -466,7 +466,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk3_temp": {
         "icon": "mdi:thermometer",
-        "label": "磁盘1温度",
+        "label": "磁盘3温度",
         "name": "temp",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -476,7 +476,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk3_size": {
         "icon": "mdi:chart-pie",
-        "label": "磁盘1大小",
+        "label": "磁盘3大小",
         "name": "size",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -484,7 +484,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk3_time": {
         "icon": "mdi:clock-time-eight",
-        "label": "磁盘1使用时长",
+        "label": "磁盘3使用时长",
         "name": "time",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -507,21 +507,21 @@ SENSOR_TYPES_DISK = {
 
     "disk3_readspeed": {
         "icon": "mdi:devices",
-        "label": "磁盘1读取速度",
+        "label": "磁盘3读取速度",
         "name": "readspeed",
         "device_Id": "disk3",
         "device_Name": "disk",
     },
     "disk3_writespeed": {
         "icon": "mdi:devices",
-        "label": "磁盘1写入速度",
+        "label": "磁盘3写入速度",
         "name": "writespeed",
         "device_Id": "disk3",
         "device_Name": "disk",
     },
     "disk3_diskplace": {
         "icon": "mdi:devices",
-        "label": "磁盘1位置",
+        "label": "磁盘3位置",
         "name": "diskplace",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -529,7 +529,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk3_checkstatus": {
         "icon": "mdi:devices",
-        "label": "磁盘1检查状态",
+        "label": "磁盘3检查状态",
         "name": "checkstatus",
         "device_Id": "disk3",
         "device_Name": "disk",
@@ -537,7 +537,7 @@ SENSOR_TYPES_DISK = {
 
     "disk4_interface": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1类型",
+        "label": "磁盘4类型",
         "name": "interface",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -545,7 +545,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk4_model": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1型号",
+        "label": "磁盘4型号",
         "name": "model",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -553,7 +553,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk4_type": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1类型",
+        "label": "磁盘4类型",
         "name": "type",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -561,7 +561,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk4_status": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1状态",
+        "label": "磁盘4状态",
         "name": "status",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -569,7 +569,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk4_serial": {
         "icon": "mdi:devices",
-        "label": "磁盘1序列号",
+        "label": "磁盘4序列号",
         "name": "serial",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -577,7 +577,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk4_temp": {
         "icon": "mdi:thermometer",
-        "label": "磁盘1温度",
+        "label": "磁盘4温度",
         "name": "temp",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -587,7 +587,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk4_size": {
         "icon": "mdi:chart-pie",
-        "label": "磁盘1大小",
+        "label": "磁盘4大小",
         "name": "size",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -595,7 +595,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk4_time": {
         "icon": "mdi:clock-time-eight",
-        "label": "磁盘1使用时长",
+        "label": "磁盘4使用时长",
         "name": "time",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -618,21 +618,21 @@ SENSOR_TYPES_DISK = {
 
     "disk4_readspeed": {
         "icon": "mdi:devices",
-        "label": "磁盘1读取速度",
+        "label": "磁盘4读取速度",
         "name": "readspeed",
         "device_Id": "disk4",
         "device_Name": "disk",
     },
     "disk4_writespeed": {
         "icon": "mdi:devices",
-        "label": "磁盘1写入速度",
+        "label": "磁盘4写入速度",
         "name": "writespeed",
         "device_Id": "disk4",
         "device_Name": "disk",
     },
     "disk4_diskplace": {
         "icon": "mdi:devices",
-        "label": "磁盘1位置",
+        "label": "磁盘4位置",
         "name": "diskplace",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -640,7 +640,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk4_checkstatus": {
         "icon": "mdi:devices",
-        "label": "磁盘1检查状态",
+        "label": "磁盘4检查状态",
         "name": "checkstatus",
         "device_Id": "disk4",
         "device_Name": "disk",
@@ -648,7 +648,7 @@ SENSOR_TYPES_DISK = {
 
     "disk5_interface": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1类型",
+        "label": "磁盘5类型",
         "name": "interface",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -656,7 +656,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk5_model": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1型号",
+        "label": "磁盘5型号",
         "name": "model",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -664,7 +664,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk5_type": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1类型",
+        "label": "磁盘5类型",
         "name": "type",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -672,7 +672,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk5_status": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1状态",
+        "label": "磁盘5状态",
         "name": "status",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -680,7 +680,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk5_serial": {
         "icon": "mdi:devices",
-        "label": "磁盘1序列号",
+        "label": "磁盘5序列号",
         "name": "serial",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -688,7 +688,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk5_temp": {
         "icon": "mdi:thermometer",
-        "label": "磁盘1温度",
+        "label": "磁盘5温度",
         "name": "temp",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -698,7 +698,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk5_size": {
         "icon": "mdi:chart-pie",
-        "label": "磁盘1大小",
+        "label": "磁盘5大小",
         "name": "size",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -706,7 +706,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk5_time": {
         "icon": "mdi:clock-time-eight",
-        "label": "磁盘1使用时长",
+        "label": "磁盘5使用时长",
         "name": "time",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -729,21 +729,21 @@ SENSOR_TYPES_DISK = {
 
     "disk5_readspeed": {
         "icon": "mdi:devices",
-        "label": "磁盘1读取速度",
+        "label": "磁盘5读取速度",
         "name": "readspeed",
         "device_Id": "disk5",
         "device_Name": "disk",
     },
     "disk5_writespeed": {
         "icon": "mdi:devices",
-        "label": "磁盘1写入速度",
+        "label": "磁盘5写入速度",
         "name": "writespeed",
         "device_Id": "disk5",
         "device_Name": "disk",
     },
     "disk5_diskplace": {
         "icon": "mdi:devices",
-        "label": "磁盘1位置",
+        "label": "磁盘5位置",
         "name": "diskplace",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -751,7 +751,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk5_checkstatus": {
         "icon": "mdi:devices",
-        "label": "磁盘1检查状态",
+        "label": "磁盘5检查状态",
         "name": "checkstatus",
         "device_Id": "disk5",
         "device_Name": "disk",
@@ -759,7 +759,7 @@ SENSOR_TYPES_DISK = {
 
     "disk6_interface": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1类型",
+        "label": "磁盘6类型",
         "name": "interface",
         "device_Id": "disk6",
         "device_Name": "disk",
@@ -767,7 +767,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk6_model": {
         "icon": "mdi:globe-model",
-        "label": "磁盘1型号",
+        "label": "磁盘6型号",
         "name": "model",
         "device_Id": "disk6",
         "device_Name": "disk",
@@ -775,7 +775,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk6_type": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1类型",
+        "label": "磁盘6类型",
         "name": "type",
         "device_Id": "disk6",
         "device_Name": "disk",
@@ -783,7 +783,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk6_status": {
         "icon": "mdi:harddisk",
-        "label": "磁盘1状态",
+        "label": "磁盘6状态",
         "name": "status",
         "device_Id": "disk6",
         "device_Name": "disk",
@@ -791,7 +791,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk6_serial": {
         "icon": "mdi:devices",
-        "label": "磁盘1序列号",
+        "label": "磁盘6序列号",
         "name": "serial",
         "device_Id": "disk6",
         "device_Name": "disk",
@@ -799,7 +799,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk6_temp": {
         "icon": "mdi:thermometer",
-        "label": "磁盘1温度",
+        "label": "磁盘6温度",
         "name": "temp",
         "device_Id": "disk6",
         "device_Name": "disk",
@@ -809,7 +809,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk6_size": {
         "icon": "mdi:chart-pie",
-        "label": "磁盘1大小",
+        "label": "磁盘6大小",
         "name": "size",
         "device_Id": "disk6",
         "device_Name": "disk",
@@ -817,7 +817,7 @@ SENSOR_TYPES_DISK = {
     },
     "disk6_time": {
         "icon": "mdi:clock-time-eight",
-        "label": "磁盘1使用时长",
+        "label": "磁盘6使用时长",
         "name": "time",
         "device_Id": "disk6",
         "device_Name": "disk",
@@ -838,35 +838,35 @@ SENSOR_TYPES_DISK = {
         "device_Name": "disk",
     },
 
-    "disk6_readspeed": {
-        "icon": "mdi:devices",
-        "label": "磁盘1读取速度",
-        "name": "readspeed",
-        "device_Id": "disk6",
-        "device_Name": "disk",
-    },
-    "disk6_writespeed": {
-        "icon": "mdi:devices",
-        "label": "磁盘1写入速度",
-        "name": "writespeed",
-        "device_Id": "disk6",
-        "device_Name": "disk",
-    },
-    "disk6_diskplace": {
-        "icon": "mdi:devices",
-        "label": "磁盘1位置",
-        "name": "diskplace",
-        "device_Id": "disk6",
-        "device_Name": "disk",
-        "category": "diagnostic",
-    },
-    "disk6_checkstatus": {
-        "icon": "mdi:devices",
-        "label": "磁盘1检查状态",
-        "name": "checkstatus",
-        "device_Id": "disk6",
-        "device_Name": "disk",
-    },
+    # "disk6_readspeed": {
+    #     "icon": "mdi:devices",
+    #     "label": "磁盘6读取速度",
+    #     "name": "readspeed",
+    #     "device_Id": "disk6",
+    #     "device_Name": "disk",
+    # },
+    # "disk6_writespeed": {
+    #     "icon": "mdi:devices",
+    #     "label": "磁盘6写入速度",
+    #     "name": "writespeed",
+    #     "device_Id": "disk6",
+    #     "device_Name": "disk",
+    # },
+    # "disk6_diskplace": {
+    #     "icon": "mdi:devices",
+    #     "label": "磁盘6位置",
+    #     "name": "diskplace",
+    #     "device_Id": "disk6",
+    #     "device_Name": "disk",
+    #     "category": "diagnostic",
+    # },
+    # "disk6_checkstatus": {
+    #     "icon": "mdi:devices",
+    #     "label": "磁盘6检查状态",
+    #     "name": "checkstatus",
+    #     "device_Id": "disk6",
+    #     "device_Name": "disk",
+    # },
 }
 
 SENSOR_TYPES_STORAGES = {
@@ -1090,22 +1090,22 @@ SENSOR_TYPES_STORAGES = {
         "device_Id": "storage4",
         "device_Name": "storage",
     },
-    "storage4_host": {
-        "icon": "mdi:devices",
-        "label": "存储空间4主机",
-        "name": "host",
-        "device_Id": "storage4",
-        "device_Name": "storage",
-        "category": "diagnostic",
-    },
-    "storage4_mode": {
-        "icon": "mdi:devices",
-        "label": "存储空间4模式",
-        "name": "mode",
-        "device_Id": "storage4",
-        "device_Name": "storage",
-        "category": "diagnostic",
-    },
+    # "storage4_host": {
+    #     "icon": "mdi:devices",
+    #     "label": "存储空间4主机",
+    #     "name": "host",
+    #     "device_Id": "storage4",
+    #     "device_Name": "storage",
+    #     "category": "diagnostic",
+    # },
+    # "storage4_mode": {
+    #     "icon": "mdi:devices",
+    #     "label": "存储空间4模式",
+    #     "name": "mode",
+    #     "device_Id": "storage4",
+    #     "device_Name": "storage",
+    #     "category": "diagnostic",
+    # },
     "storage4_name": {
         "icon": "mdi:devices",
         "label": "存储空间4名字",
